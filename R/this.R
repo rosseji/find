@@ -2,13 +2,13 @@
 #'
 #' Queries working directory and returns tha base directory as a string.
 #'
-#' @name path
+#' @name this
 #' @param path Optional string input.
 #' @return String
 #' @importFrom magrittr %>%
 #' @export
 
-path <- function(path = NULL) {
+this <- function(path = NULL) {
 
   local_dir <- getwd() %>%
     stringr::str_split("/") %>%
