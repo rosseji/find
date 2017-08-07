@@ -1,6 +1,6 @@
 #' Finds Local path
 #'
-#' Queries working directory and returns tha base directory as a string.
+#' Queries working directory and returns the base user dir.
 #'
 #' @name this
 #' @param path Optional string input.

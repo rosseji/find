@@ -1,6 +1,6 @@
 Package: find
 Title: File path MGMT
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: person("Ross", "Ireland", email = "rosseireland@gmail.com", role = c("aut", "cre"))
 Description: File path MGMT
 Depends: stringr

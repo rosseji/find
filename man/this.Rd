@@ -13,5 +13,5 @@ this(path = NULL)
 String
 }
 \description{
-Queries working directory and returns tha base directory as a string.
+Queries working directory and returns the base user dir.
 }
