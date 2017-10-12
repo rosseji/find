@@ -1,11 +1,10 @@
 Package: find
 Title: File path MGMT
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: person("Ross", "Ireland", email = "rosseireland@gmail.com", role = c("aut", "cre"))
 Description: File path MGMT
 Depends: stringr
 License: MIT
-URL: https://github.com/trendlock/find
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1

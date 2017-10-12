@@ -15,6 +15,6 @@ this <- function(path = NULL) {
     .[[1]] %>%
     .[2:3] %>%
     stringr::str_c(collapse = "/") %>%
-    paste0("/", ., path)
+    paste0("/", .,"/Dropbox (Trendlock)/TrendLock Team Folder", path)
 
 }
